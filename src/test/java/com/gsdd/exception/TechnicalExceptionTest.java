@@ -27,5 +27,4 @@ class TechnicalExceptionTest {
     TechnicalException et = new TechnicalException(ERROR, t);
     Assertions.assertEquals(ERROR, et.getMessage());
   }
-
 }
