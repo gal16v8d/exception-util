@@ -38,7 +38,7 @@
 
 		<checkstyle.version>10.1</checkstyle.version>
 
-		<junit.version>5.9.0</junit.version>
+		<junit.version>5.9.1</junit.version>
 	</properties>
 
 	<dependencies>
